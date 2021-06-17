@@ -1,0 +1,10 @@
+C:\Users\Matheus\Desktop\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\bin\Matheus Almeida - Menu Dinamico.dll
+C:\Users\Matheus\Desktop\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\bin\Matheus Almeida - Menu Dinamico.pdb
+C:\Users\Matheus\Desktop\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\obj\Debug\Matheus Almeida - Menu Dinamico.dll
+C:\Users\Matheus\Desktop\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\obj\Debug\Matheus Almeida - Menu Dinamico.pdb
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\bin\Matheus Almeida - Menu Dinamico.dll
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\bin\Matheus Almeida - Menu Dinamico.pdb
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\obj\Debug\Matheus Almeida - Menu Dinamico.dll
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\obj\Debug\Matheus Almeida - Menu Dinamico.pdb
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\bin\Matheus Almeida - Menu Dinamico.dll.config
+C:\Users\Matheus\Matheus Almeida - Menu Dinamico\Matheus Almeida - Menu Dinamico\obj\Debug\Matheus Almeida - Menu Dinamico.csprojResolveAssemblyReference.cache

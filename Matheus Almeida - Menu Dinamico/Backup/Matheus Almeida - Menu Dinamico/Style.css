@@ -1,0 +1,36 @@
+﻿.level1
+{
+    color: White;
+    background-color: Black;
+    font-variant: small-caps;
+    font-size: large;
+    font-weight: bold;
+}
+
+.level2
+{
+    color: Blue;
+    font-family: Gill Sans MT !important;
+    font-size: medium;
+    background-color: Gray;
+}
+
+.level3
+{
+    color: black;
+    background-color: Silver;
+    font-family: Gill Sans MT !important;
+    font-size: small;
+}
+
+.hoverstyle
+{
+    font-weight: bold;
+}
+
+.level4
+{
+    background-color: Gray !important;
+    color: White !important;
+    font-size: small;
+} 
